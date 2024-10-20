@@ -6,7 +6,7 @@
 
 > Some small scripts that are not very useful - the positioning of this library is very clear.
 >
-> So you can probably guess what is stored in _python_useless_tools_ - some small gadgets made by oneself during the process of learning _python_, as well as those made by friends who have agreed to release them.
+> So you can probably guess what is stored in _python_useless_tools_ - some small gadgets made by oneself during the process of learning _python_, as well as those made by friends who have agreed to release them-Not necessarily useful, not necessarily interesting to everyone.
 
 The creator is not a professional Python developer, and as a beginner in Python, they do not have any systematic programming learning experience. Therefore, we are not responsible for the quality of the code.
 
